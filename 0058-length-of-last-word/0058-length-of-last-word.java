@@ -1,13 +1,7 @@
 class Solution {
     public int lengthOfLastWord(String s) {
-        int count=0;
-        String[] starr = s.trim().split("\\s+");
-        
-        if(starr.length ==0){
-            return 0;
-        }
-
-        String lastword = starr[starr.length - 1];
-        return lastword.length();
+        String[] arr = s.trim().split(" ");
+        String last = arr[arr.length-1];
+        return last.length();
     }
 }
