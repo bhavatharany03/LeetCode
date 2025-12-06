@@ -12,4 +12,12 @@
 |  |
 | ------- |
 | [2067-maximum-number-of-points-with-cost](https://github.com/bhavatharany03/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/bhavatharany03/LeetCode/tree/master/0125-valid-palindrome) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/bhavatharany03/LeetCode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
