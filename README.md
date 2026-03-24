@@ -19,11 +19,13 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/bhavatharany03/LeetCode/tree/master/0125-valid-palindrome) |
 | [3794-reverse-string-prefix](https://github.com/bhavatharany03/LeetCode/tree/master/3794-reverse-string-prefix) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/bhavatharany03/LeetCode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/bhavatharany03/LeetCode/tree/master/0125-valid-palindrome) |
 | [3794-reverse-string-prefix](https://github.com/bhavatharany03/LeetCode/tree/master/3794-reverse-string-prefix) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/bhavatharany03/LeetCode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Queue
 |  |
 | ------- |
@@ -40,4 +42,8 @@
 |  |
 | ------- |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/bhavatharany03/LeetCode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+## Simulation
+|  |
+| ------- |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/bhavatharany03/LeetCode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 <!---LeetCode Topics End-->
