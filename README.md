@@ -18,10 +18,12 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/bhavatharany03/LeetCode/tree/master/0125-valid-palindrome) |
+| [3794-reverse-string-prefix](https://github.com/bhavatharany03/LeetCode/tree/master/3794-reverse-string-prefix) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/bhavatharany03/LeetCode/tree/master/0125-valid-palindrome) |
+| [3794-reverse-string-prefix](https://github.com/bhavatharany03/LeetCode/tree/master/3794-reverse-string-prefix) |
 ## Queue
 |  |
 | ------- |
