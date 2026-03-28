@@ -7,6 +7,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/bhavatharany03/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/bhavatharany03/LeetCode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/bhavatharany03/LeetCode/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/bhavatharany03/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -63,6 +64,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/bhavatharany03/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0287-find-the-duplicate-number](https://github.com/bhavatharany03/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [2540-minimum-common-value](https://github.com/bhavatharany03/LeetCode/tree/master/2540-minimum-common-value) |
 ## Sorting
@@ -78,4 +80,8 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/bhavatharany03/LeetCode/tree/master/0455-assign-cookies) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/bhavatharany03/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
