@@ -7,6 +7,7 @@
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/bhavatharany03/LeetCode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/bhavatharany03/LeetCode/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/bhavatharany03/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/bhavatharany03/LeetCode/tree/master/0455-assign-cookies) |
@@ -21,6 +22,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/bhavatharany03/LeetCode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/bhavatharany03/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/bhavatharany03/LeetCode/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/bhavatharany03/LeetCode/tree/master/0287-find-the-duplicate-number) |
