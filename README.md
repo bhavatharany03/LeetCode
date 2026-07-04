@@ -84,4 +84,8 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/bhavatharany03/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/bhavatharany03/LeetCode/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
